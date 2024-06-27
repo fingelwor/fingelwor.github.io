@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://fingelwor.github.io/sitemap
+Sitemap: https://fingelwor.github.io/app/sitemap
+Sitemap: https://fingelwor.github.io/assets/sitemap
+Sitemap: https://fingelwor.github.io/css/sitemap
+Sitemap: https://fingelwor.github.io/includes/sitemap
+Sitemap: https://fingelwor.github.io/item/sitemap
+Sitemap: https://fingelwor.github.io/src/sitemap
